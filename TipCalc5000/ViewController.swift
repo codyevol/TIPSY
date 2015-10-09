@@ -29,9 +29,9 @@ class ViewController: UIViewController {
 
     @IBAction func onEditingChanged(sender: AnyObject) {
         
-        var billAmount = NSString(string: billField.text!).doubleValue
-        var tip = billAmount * 0.2
-        var total = billAmount + tip
+        let billAmount = NSString(string: billField.text!).doubleValue
+        let tip = billAmount * 0.2
+        let total = billAmount + tip
         
      
         
@@ -41,5 +41,9 @@ class ViewController: UIViewController {
         
     }
 
+    @IBAction func onTap(sender: AnyObject) {
+        
+        view.endEditing(true)
+    }
 }
 
