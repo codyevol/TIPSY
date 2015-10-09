@@ -73,6 +73,7 @@
                     <connections>
                         <outlet property="billField" destination="hrX-ga-E1X" id="FyH-Rc-kAz"/>
                         <outlet property="tipLabel" destination="YVN-lt-scZ" id="Baz-eJ-kaj"/>
+                        <outlet property="totalLabel" destination="WTE-lR-hur" id="kFP-2X-uwP"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
