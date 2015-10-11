@@ -13,6 +13,6 @@ Completed user stories:
 
 Walkthrough of all user stories:
 ![Video Walkthrough]
-(video.gif)
+(tipsyv1.gif)
 
 
