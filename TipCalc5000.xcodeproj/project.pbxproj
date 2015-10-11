@@ -481,6 +481,7 @@
 				6145B5411BC8473F000D44DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6145B5421BC8473F000D44DE /* Build configuration list for PBXNativeTarget "TipCalc5000Tests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +490,7 @@
 				6145B5441BC8473F000D44DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6145B5451BC8473F000D44DE /* Build configuration list for PBXNativeTarget "TipCalc5000UITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +499,7 @@
 				6145B5471BC8473F000D44DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
