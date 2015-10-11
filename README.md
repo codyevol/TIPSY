@@ -2,7 +2,7 @@
 
 This is an awesome calculator app that easiliy lets you calculate what your tip should be.
 
-TimeSpent: 4 hours total
+TimeSpent: 6 hours total
 
 Completed user stories:
 
