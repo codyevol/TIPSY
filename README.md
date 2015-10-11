@@ -12,7 +12,8 @@ Completed user stories:
 * [X] Create a readme
 
 Walkthrough of all user stories:
-![Video Walkthrough]
-(tipsyv1.gif)
+
+![Video Walkthrough](tipsyv1.gif)
+
 
 
