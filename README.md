@@ -1,4 +1,4 @@
-# TipCalc5000
+# TISPY
 
 This is an awesome calculator app that easiliy lets you calculate what your tip should be.
 
